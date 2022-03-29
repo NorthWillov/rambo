@@ -7,3 +7,18 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%,
 .container {
   text-align: center;
 }
+
+#Actorzy {
+  display:flex;
+justify-content: center;
+
+}
+#Actor1 {
+  padding-right: 30px;
+}
+#Actor3 {
+  padding-left: 30px;
+}
+h1{
+  text-align: center;
+}
